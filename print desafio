@@ -1,0 +1,32 @@
+
+File Actions Edit View Help
+[*] Information will be displayed to you as it arrives below: 10.23.88.253 - - [16/Dec/2024 16:00:12] "GET / HTTP/1.1" 200 [16/Dec/2024 16:01:17] "GET / HTTP/1.1" 200
+10.23.88.253
+10.23.88.253
+[16/Dec/2024 16:02:07] "GET / HTTP/1.1" 200
+[*] WE GOT A HIT! Printing the output:
+PARAM: jazoest=2885
+PARAM: lsd=AVr72t2An7w PARAM: display=
+PARAM: isprivate=
+PARAM: return_session=
+POSSIBLE USERNAME FIELD FOUND: skip_api_login=
+PARAM: signed_next=
+PARAM: trynum=1
+PARAM: timezone=
+PARAM: lgndim=
+PARAM: lgnrnd=105803_KXO_
+PARAM: lgnjs=n
+POSSIBLE USERNAME FIELD FOUND: email=jose@gmail.com
+POSSIBLE PASSWORD FIELD FOUND: pass=1234567
+POSSIBLE USERNAME FIELD FOUND: login=1
+PARAM: prefill_contact_point=
+PARAM: prefill_source=
+PARAM: prefill_type=
+PARAM: first_prefill_source=
+PARAM: first_prefill_type=
+PARAM: had_cp_prefilled-false
+POSSIBLE PASSWORD FIELD FOUND: had_password_prefilled=false PARAM: ab_test_data=
+[*] WHEN YOU'RE FINISHED, HIT CONTROL-C TO GENERATE A REPORT.
+10.23.88.253
+- -
+[16/Dec/2024 16:02:56] "GET /favicon.ico HTTP/1.1" 404
